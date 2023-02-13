@@ -3,11 +3,7 @@
 ###### This is an <h6> header, which is the smallest
 
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://cdn.pixabay.com/photo/2015/10/01/17/17/car-967387_960_720.png">
- <source media="(prefers-color-scheme: light)" srcset="https://cdn.pixabay.com/photo/2015/10/01/17/17/car-967387_960_720.png">
- <img alt="This is the car" src="https://cdn.pixabay.com/photo/2015/10/01/17/17/car-967387_960_720.png">
-</picture>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ```
